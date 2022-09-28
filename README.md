@@ -4,6 +4,7 @@
 # Инструменты
 - калькулятор дней для расчета стажа (https://fincalculator.ru/kalkulyator-dnej)
 - база аккредитованых IT компаний (https://digital.gov.ru/opendata/7710474375-registergosaccred/table/)
+- форма для получения отсрочки на Госуслугах (https://www.gosuslugi.ru/600749/1/form)
 
 # Какие документы должны быть готовы в любом случае
 - паспорт РФ
